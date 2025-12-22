@@ -34,7 +34,8 @@ The objective was to ensure KPI parity, rebuild data models, convert Tableau cal
 
   Power BI Dashboard
 
-  <img width="1391" height="762" alt="image" src="https://github.com/user-attachments/assets/a87e4290-08f6-4484-8822-b24019e2e7db" />
+  <img width="1361" height="766" alt="image" src="https://github.com/user-attachments/assets/940b3283-1e59-41eb-bcb5-1b3e965c9a78" />
+
 
 
 ### Dashboard 2: Customer Insights
@@ -49,7 +50,8 @@ Tableau Dashboard
 
 Power BI Dashboard
 
-<img width="1421" height="757" alt="image" src="https://github.com/user-attachments/assets/f08b7032-5bb7-412b-9e81-e44b2e29e0a8" />
+<img width="1360" height="759" alt="image" src="https://github.com/user-attachments/assets/fa0cb10f-0325-48aa-b9aa-dabb775149ff" />
+
 
 
 ---
