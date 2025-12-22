@@ -46,12 +46,14 @@ The objective was to ensure KPI parity, rebuild data models, convert Tableau cal
 
 Tableau Dashboard
 
-<img width="1663" height="839" alt="image" src="https://github.com/user-attachments/assets/d62c77cb-3c18-4464-8042-545a5103505d" />
+<img width="1659" height="827" alt="image" src="https://github.com/user-attachments/assets/619ad89c-d8f7-49b5-b86f-bc732222ca0d" />
+
 
 
 Power BI Dashboard
 
-<img width="1360" height="759" alt="image" src="https://github.com/user-attachments/assets/fa0cb10f-0325-48aa-b9aa-dabb775149ff" />
+<img width="1352" height="760" alt="image" src="https://github.com/user-attachments/assets/1fed8362-9f81-48b8-a307-83a60414d7ae" />
+
 
 
 
